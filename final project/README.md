@@ -10,7 +10,7 @@ Student IDs first digit range from 1 to 6 and this digit denote the student clas
 Teacher IDs first digit is 7 and this digit denote the teacher   
 manager Id first digit is 8 and this digit denote the manager
 
-this digit identifier is used to to triggres in the database and also in the program
+this digit identifier is used to  triggres in the database and also in the program
 
 the program display the options that a user can do depending on his Id so he only can access to the specified functions
 
